@@ -1,0 +1,29 @@
+/** 
+* Paste one or more documents here
+*/
+{
+    "_id": {
+        "$oid": "602d71ac8fb98185864fe9fa"
+    },
+    "guildID": "123456789012345678",
+    "ownerID:": "12345678901234678",
+    "prefix": "?",
+    "cmdChannel": "null",
+    "cmdMusicChannel": "null",
+    "greetingChannelID": "null",
+    "leaveChannelID": "null",
+    "statCategoryID": "null",
+    "statChannelID": "null",
+    "ruleChannelID": "null",
+    "ruleRoleID": "null",
+    "autoRoleID": "null",
+    "twitchUSerID": "null",
+    "volume": 1,
+    "language": "EN",
+    "createdAt": {
+        "$date": "2020-01-31T23:00:00.000Z"
+    },
+    "updatedAt": {
+        "$date": "2020-01-30T23:00:00.000Z"
+    }
+}
